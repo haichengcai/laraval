@@ -1,4 +1,5 @@
 <?php
+// TEST only
 /**
  * Part of the Caffeinated PHP packages.
  *
